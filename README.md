@@ -4,7 +4,7 @@ LLM-powered virtual guide for rupestrian churches in Matera. The system combines
 ## XR Application Videos
 This section presents demonstration videos of the proposed application, illustrating how users interact with the system in an immersive XR environment.
 
-![](assets/video/Falcione.mp4)
+![](https://raw.githubusercontent.com/xrailab/llm_virtual_guide/blob/main/assets/video/Falcione.mp4)
 *Demonstration of user interaction and real-time contextual responses within the rupestrian environment of San Falcione.*
 
 ![](assets/video/Idris.mp4)
