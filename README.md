@@ -4,3 +4,18 @@ LLM-powered virtual guide for rupestrian churches in Matera. The system combines
 ## Project Webpage
 
 👉 [Visit the project website](https://xrailab.github.io/llm_virtual_guide/)
+
+
+## Code Request
+
+Due to ongoing research and maintenance activities, the complete source code is not publicly available.
+
+Researchers interested in reproducing the results presented in this work may request access to either the full codebase or individual system components.
+
+To request access, please contact the authors:
+
+- Author Name 1 — author1@institution.edu
+- Author Name 2 — author2@institution.edu
+- Author Name 3 — author3@institution.edu
+
+Please briefly describe your intended use case, affiliation, and the specific components you are interested in accessing.
